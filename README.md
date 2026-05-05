@@ -19,6 +19,8 @@ I am a current DPhil student studying wind energy. My background is in maths and
   </a>
 </p>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d-green1958&theme=github-compact&custom_title=My%20Activity%20&hide_border=true)
+
 <h2>My Interests</h2>
 
 - Computational fluid dynamics
